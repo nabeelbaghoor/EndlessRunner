@@ -1,0 +1,16 @@
+{
+"companyName": "NULL STUDIOS",
+"productName": "The Hell",
+"productVersion": "0.1",
+"dataUrl": "junk.data.unityweb",
+"wasmCodeUrl": "junk.wasm.code.unityweb",
+"wasmFrameworkUrl": "junk.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}
